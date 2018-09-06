@@ -28,7 +28,7 @@
 library(devtools)
 install_github("stanleyxu/loci2path")
 ```
- * The Bioconductor package is under review process; Once released you can also install loci2path using `biocLite()` function from bioconductor.
+ * The Bioconductor package is under review process; Once released you can also install loci2path using `BiocManager::install()` function from bioconductor.
 
 
 # Query loci2path with genomic regions
